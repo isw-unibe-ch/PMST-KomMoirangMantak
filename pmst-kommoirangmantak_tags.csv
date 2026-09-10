@@ -1,0 +1,4 @@
+tag_id,tag_column_name,comment,language_id
+certain_fut,paradigm_tag,form is part of the certain future paradigm,kommoirangmantak
+uncertain_fut,paradigm_tag,form is part of the uncertain future paradigm,kommoirangmantak
+unspecified,variants_tag,form is not used in special contexts,kommoirangmantak

@@ -1,0 +1,206 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,paradigm_tag,source,page,language_id
+kommoirangmantak001,no_stem,1.sg,kei,kei,kei,k ei,k ei,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak002,no_stem,1.pl.excl,keini,keini,kei+ni,k ei n i,k ei + n i,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak003,no_stem,1.pl.incl,eini,eini,ei+ni,ei n i,ei + n i,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak004,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak005,no_stem,2.pl,nangni,nangni,nang+ni,n a ŋ n i,n a ŋ + n i,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak006,no_stem,3.sg,ama,ama,a+ma,a m a,a + m a,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak007,no_stem,3.pl,inmani,inmani,in+ma+ni,i n m a n i,i n + m a + n i,unspecified,,Kanshouwa2026Moirangmantak,nopage,kommoirangmantak
+kommoirangmantak008,che,1.sg.fut.aff,che-ka-te,Σ-ka-te,Σ+ka+te,Σ k a t e,Σ + k a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak009,che,1.sg.fut.aff,ka-che-sik-ni,ka-Σ-sik-ni,ka+Σ+sik+ni,k a Σ s i k n i,k a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak010,che,1.pl.excl.fut.aff,che-kin-te,Σ-kin-te,Σ+kin+te,Σ k i n t e,Σ + k i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak011,che,1.pl.excl.fut.aff,kin-che-sik-ni,kin-Σ-sik-ni,kin+Σ+sik+ni,k i n Σ s i k n i,k i n + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak012,che,1.pl.incl.fut.aff,che-ni-te,Σ-ni-te,Σ+ni+te,Σ n i t e,Σ + n i + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak013,che,1.pl.incl.fut.aff,ni-che-sik-ni,ni-Σ-sik-ni,ni+Σ+sik+ni,n i Σ s i k n i,n i + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak014,mu,1.sg.2.sg.fut.aff,na-mu-ka-te,na-Σ-ka-te,na+Σ+ka+te,n a Σ k a t e,n a + Σ + k a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak015,mu,1.sg.2.sg.fut.aff,ka-na-mu-sik-ni,ka-na-Σ-sik-ni,ka+na+Σ+sik+ni,k a n a Σ s i k n i,k a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak016,mu,1.sg.2.pl.fut.aff,na-mu-ka-te,na-Σ-ka-te,na+Σ+ka+te,n a Σ k a t e,n a + Σ + k a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak017,mu,1.sg.2.pl.fut.aff,ka-na-mu-sik-ni,ka-na-Σ-sik-ni,ka+na+Σ+sik+ni,k a n a Σ s i k n i,k a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak018,mu,1.pl.excl.2.sg.fut.aff,kin-na-mu-sik-ni,kin-na-Σ-sik-ni,kin+na+Σ+sik+ni,k i n n a Σ s i k n i,k i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak019,mu,1.pl.excl.2.sg.fut.aff,na-mu-kin-te,na-Σ-kin-te,na+Σ+kin+te,n a Σ k i n t e,n a + Σ + k i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak020,mu,1.pl.excl.2.pl.fut.aff,kin-na-mu-sik-ni,kin-na-Σ-sik-ni,kin+na+Σ+sik+ni,k i n n a Σ s i k n i,k i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak021,mu,1.pl.excl.2.pl.fut.aff,na-mu-kin-te,na-Σ-kin-te,na+Σ+kin+te,n a Σ k i n t e,n a + Σ + k i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak022,mu,1.sg.3.sg.fut.aff,mu-ka-te,Σ-ka-te,Σ+ka+te,Σ k a t e,Σ + k a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak023,mu,1.sg.3.sg.fut.aff,ka-na-mu-sik-ni,ka-na-Σ-sik-ni,ka+na+Σ+sik+ni,k a n a Σ s i k n i,k a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak024,mu,1.sg.3.pl.fut.aff,mu-ka-te,Σ-ka-te,Σ+ka+te,Σ k a t e,Σ + k a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak025,mu,1.sg.3.pl.fut.aff,ka-na-mu-sik-ni,ka-na-Σ-sik-ni,ka+na+Σ+sik+ni,k a n a Σ s i k n i,k a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak026,mu,1.pl.excl.3.sg.fut.aff,kin-na-mu-sik-ni,kin-na-Σ-sik-ni,kin+na+Σ+sik+ni,k i n n a Σ s i k n i,k i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak027,mu,1.pl.excl.3.sg.fut.aff,mu-kin-te,Σ-kin-te,Σ+kin+te,Σ k i n t e,Σ + k i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak028,mu,1.pl.incl.3.sg.fut.aff,ni-na-mu-sik-ni,ni-na-Σ-sik-ni,ni+na+Σ+sik+ni,n i n a Σ s i k n i,n i + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak029,mu,1.pl.incl.3.sg.fut.aff,mu-ni-te,Σ-ni-te,Σ+ni+te,Σ n i t e,Σ + n i + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak030,mu,1.pl.excl.3.pl.fut.aff,kin-na-mu-sik-ni,kin-na-Σ-sik-ni,kin+na+Σ+sik+ni,k i n n a Σ s i k n i,k i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak031,mu,1.pl.excl.3.pl.fut.aff,mu-kin-te,Σ-kin-te,Σ+kin+te,Σ k i n t e,Σ + k i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak032,mu,1.pl.incl.3.pl.fut.aff,ni-na-mu-sik-ni,ni-na-Σ-sik-ni,ni+na+Σ+sik+ni,n i n a Σ s i k n i,n i + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak033,mu,1.pl.incl.3.pl.fut.aff,mu-ni-te,Σ-ni-te,Σ+ni+te,Σ n i t e,Σ + n i + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak034,che,2.sg.fut.aff,che-na-te,Σ-na-te,Σ+na+te,Σ n a t e,Σ + n a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak035,che,2.sg.fut.aff,na-che-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak036,che,2.pl.fut.aff,che-ning-te,Σ-ning-te,Σ+ning+te,Σ n i ŋ t e,Σ + n i ŋ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak037,che,2.pl.fut.aff,ning-che-sik-ni,ning-Σ-sik-ni,ning+Σ+sik+ni,n i ŋ Σ s i k n i,n i ŋ + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak038,mu,2.sg.1.sg.fut.aff,na-mu-na-te,na-Σ-na-te,na+Σ+na+te,n a Σ n a t e,n a + Σ + n a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak039,mu,2.sg.1.sg.fut.aff,na-na-mu-sik-ni,na-na-Σ-sik-ni,na+na+Σ+sik+ni,n a n a Σ s i k n i,n a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak040,mu,2.sg.1.pl.excl.fut.aff,na-mu-na-te,na-Σ-na-te,na+Σ+na+te,n a Σ n a t e,n a + Σ + n a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak041,mu,2.sg.1.pl.excl.fut.aff,na-na-mu-sik-ni,na-na-Σ-sik-ni,na+na+Σ+sik+ni,n a n a Σ s i k n i,n a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak042,mu,2.pl.1.sg.fut.aff,na-mu-ning-te,na-Σ-ning-te,na+Σ+ning+te,n a Σ n i ŋ t e,n a + Σ + n i ŋ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak043,mu,2.pl.1.sg.fut.aff,ning-na-mu-sik-ni,ning-na-Σ-sik-ni,ning+na+Σ+sik+ni,n i ŋ n a Σ s i k n i,n i ŋ + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak044,mu,2.pl.1.pl.excl.fut.aff,na-mu-ning-te,na-Σ-ning-te,na+Σ+ning+te,n a Σ n i ŋ t e,n a + Σ + n i ŋ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak045,mu,2.pl.1.pl.excl.fut.aff,ning-na-mu-sik-ni,ning-na-Σ-sik-ni,ning+na+Σ+sik+ni,n i ŋ n a Σ s i k n i,n i ŋ + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak046,mu,2.sg.3.sg.fut.aff,mu-na-te,Σ-na-te,Σ+na+te,Σ n a t e,Σ + n a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak047,mu,2.sg.3.sg.fut.aff,na-na-mu-sik-ni,na-na-Σ-sik-ni,na+na+Σ+sik+ni,n a n a Σ s i k n i,n a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak048,mu,2.sg.3.pl.fut.aff,mu-na-te,Σ-na-te,Σ+na+te,Σ n a t e,Σ + n a + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak049,mu,2.sg.3.pl.fut.aff,na-na-mu-sik-ni,na-na-Σ-sik-ni,na+na+Σ+sik+ni,n a n a Σ s i k n i,n a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak050,mu,2.pl.3.sg.fut.aff,mu-ning-te,Σ-ning-te,Σ+ning+te,Σ n i ŋ t e,Σ + n i ŋ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak051,mu,2.pl.3.sg.fut.aff,ning-na-mu-sik-ni,ning-na-Σ-sik-ni,ning+na+Σ+sik+ni,n i ŋ n a Σ s i k n i,n i ŋ + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak052,mu,2.pl.3.pl.fut.aff,mu-ning-te,Σ-ning-te,Σ+ning+te,Σ n i ŋ t e,Σ + n i ŋ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak053,mu,2.pl.3.pl.fut.aff,ning-na-mu-sik-ni,ning-na-Σ-sik-ni,ning+na+Σ+sik+ni,n i ŋ n a Σ s i k n i,n i ŋ + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak054,che,3.sg.fut.aff,che-te,Σ-te,Σ+te,Σ t e,Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak055,che,3.sg.fut.aff,a-che-sik-ni,a-Σ-sik-ni,a+Σ+sik+ni,a Σ s i k n i,a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak056,che,3.pl.fut.aff,che-in-te,Σ-in-te,Σ+in+te,Σ i n t e,Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak057,che,3.pl.fut.aff,in-che-sik-ni,in-Σ-sik-ni,in+Σ+sik+ni,i n Σ s i k n i,i n + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak058,mu,3.sg.1.sg.fut.aff,na-mu-te,na-Σ-te,na+Σ+te,n a Σ t e,n a + Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak059,mu,3.sg.1.sg.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak060,mu,3.sg.1.pl.excl.fut.aff,na-mu-te,na-Σ-te,na+Σ+te,n a Σ t e,n a + Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak061,mu,3.sg.1.pl.excl.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak062,mu,3.sg.1.pl.incl.fut.aff,na-mu-te,na-Σ-te,na+Σ+te,n a Σ t e,n a + Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak063,mu,3.sg.1.pl.incl.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak064,mu,3.pl.1.sg.fut.aff,na-mu-in-te,na-Σ-in-te,na+Σ+in+te,n a Σ i n t e,n a + Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak065,mu,3.pl.1.sg.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak066,mu,3.pl.1.pl.excl.fut.aff,na-mu-in-te,na-Σ-in-te,na+Σ+in+te,n a Σ i n t e,n a + Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak067,mu,3.pl.1.pl.excl.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak068,mu,3.pl.1.pl.incl.fut.aff,na-mu-in-te,na-Σ-in-te,na+Σ+in+te,n a Σ i n t e,n a + Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak069,mu,3.pl.1.pl.incl.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak070,mu,3.sg.2.sg.fut.aff,na-mu-te,na-Σ-te,na+Σ+te,n a Σ t e,n a + Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak071,mu,3.sg.2.sg.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak072,mu,3.sg.2.pl.fut.aff,na-mu-te,na-Σ-te,na+Σ+te,n a Σ t e,n a + Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak073,mu,3.sg.2.pl.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak074,mu,3.pl.2.sg.fut.aff,na-mu-in-te,na-Σ-in-te,na+Σ+in+te,n a Σ i n t e,n a + Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak075,mu,3.pl.2.sg.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak076,mu,3.pl.2.pl.fut.aff,na-mu-in-te,na-Σ-in-te,na+Σ+in+te,n a Σ i n t e,n a + Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak077,mu,3.pl.2.pl.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak078,mu,3.sg.3.sg.fut.aff,mu-te,Σ-te,Σ+te,Σ t e,Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak079,mu,3.sg.3.sg.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak080,mu,3.sg.3.pl.fut.aff,mu-te,Σ-te,Σ+te,Σ t e,Σ + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak081,mu,3.sg.3.pl.fut.aff,a-na-mu-sik-ni,a-na-Σ-sik-ni,a+na+Σ+sik+ni,a n a Σ s i k n i,a + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak082,mu,3.pl.3.sg.fut.aff,mu-in-te,Σ-in-te,Σ+in+te,Σ i n t e,Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak083,mu,3.pl.3.sg.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak084,mu,3.pl.3.pl.fut.aff,mu-in-te,Σ-in-te,Σ+in+te,Σ i n t e,Σ + i n + t e,unspecified,uncertain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak085,mu,3.pl.3.pl.fut.aff,in-na-mu-sik-ni,in-na-Σ-sik-ni,in+na+Σ+sik+ni,i n n a Σ s i k n i,i n + n a + Σ + s i k + n i,unspecified,certain_fut,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak086,che,1.sg.fut.neg,che-nu-ning,Σ-nu-ning,Σ+nu+n+ing,Σ n u n i ŋ,Σ + n u + n + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak087,che,1.pl.excl.fut.neg,che-nu-na-ung,Σ-nu-na-ung,Σ+nu+na+u+ng,Σ n u n a u ŋ,Σ + n u + n a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak088,che,1.pl.incl.fut.neg,che-nu-sing,Σ-nu-sing,Σ+nu+s+ing,Σ n u s i ŋ,Σ + n u + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak089,mu,1.sg.2.sg.fut.neg,na-mu-nu-ning,na-Σ-nu-ning,na+Σ+nu+n+ing,n a Σ n u n i ŋ,n a + Σ + n u + n + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak090,mu,1.sg.2.pl.fut.neg,na-mu-nu-ning,na-Σ-nu-ning,na+Σ+nu+ni+ng,n a Σ n u n i ŋ,n a + Σ + n u + n i + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak091,mu,1.sg.3.pl.fut.neg,mu-nu-ning,Σ-nu-ning,Σ+nu+ni+ng,Σ n u n i ŋ,Σ + n u + n i + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak092,mu,1.pl.excl.2.sg.fut.neg,na-mu-nu-na-ung,na-Σ-nu-na-ung,na+Σ+nu+na+u+ng,n a Σ n u n a u ŋ,n a + Σ + n u + n a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak093,mu,1.pl.excl.2.pl.fut.neg,na-mu-nu-na-ung,na-Σ-nu-na-ung,na+Σ+nu+na+u+ng,n a Σ n u n a u ŋ,n a + Σ + n u + n a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak094,mu,1.sg.3.sg.fut.neg,mu-nu-ning,Σ-nu-ning,Σ+nu+n+ing,Σ n u n i ŋ,Σ + n u + n + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak095,mu,1.pl.excl.3.sg.fut.neg,mu-nu-na-ung,Σ-nu-na-ung,Σ+nu+na+u+ng,Σ n u n a u ŋ,Σ + n u + n a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak096,mu,1.pl.incl.3.sg.fut.neg,mu-nu-sing,Σ-nu-sing,Σ+nu+s+ing,Σ n u s i ŋ,Σ + n u + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak097,mu,1.pl.excl.3.pl.fut.neg,mu-nu-na-ung,Σ-nu-na-ung,Σ+nu+na+u+ng,Σ n u n a u ŋ,Σ + n u + n a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak098,mu,1.pl.incl.3.pl.fut.neg,mu-nu-sing,Σ-nu-sing,Σ+nu+s+ing,Σ n u s i ŋ,Σ + n u + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak099,che,2.sg.fut.neg,che-nu-tin,Σ-nu-tin,Σ+nu+ti+n,Σ n u t i n,Σ + n u + t i + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak100,che,2.pl.fut.neg,che-nu-ta-un,Σ-nu-ta-un,Σ+nu+ta+u+n,Σ n u t a u n,Σ + n u + t a + u + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak101,mu,2.sg.1.sg.fut.neg,na-mu-nu-tin,na-Σ-nu-tin,na+Σ+nu+ti+n,n a Σ n u t i n,n a + Σ + n u + t i + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak102,mu,2.sg.1.pl.excl.fut.neg,na-mu-nu-tin,na-Σ-nu-tin,na+Σ+nu+ti+n,n a Σ n u t i n,n a + Σ + n u + t i + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak103,mu,2.pl.1.sg.fut.neg,na-mu-nu-ta-un,na-Σ-nu-ta-un,na+Σ+nu+ta+un,n a Σ n u t a u n,n a + Σ + n u + t a + u n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak104,mu,2.pl.1.pl.excl.fut.neg,na-mu-nu-ta-un,na-Σ-nu-ta-un,na+Σ+nu+ta+un,n a Σ n u t a u n,n a + Σ + n u + t a + u n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak105,mu,2.sg.3.sg.fut.neg,mu-nu-tin,Σ-nu-tin,Σ+nu+ti+n,Σ n u t i n,Σ + n u + t i + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak106,mu,2.sg.3.pl.fut.neg,mu-nu-tin,Σ-nu-tin,Σ+nu+ti+n,Σ n u t i n,Σ + n u + t i + n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak107,mu,2.pl.3.sg.fut.neg,mu-nu-ta-un,Σ-nu-ta-un,Σ+nu+ta+un,Σ n u t a u n,Σ + n u + t a + u n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak108,mu,2.pl.3.pl.fut.neg,mu-nu-ta-un,Σ-nu-ta-un,Σ+nu+ta+un,Σ n u t a u n,Σ + n u + t a + u n,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak109,che,3.sg.fut.neg,che-nu-ni,Σ-nu-ni,Σ+nu+ni,Σ n u n i,Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak110,che,3.pl.fut.neg,che-nu-na-u,Σ-nu-na-u,Σ+nu+na+u,Σ n u n a u,Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak111,mu,3.sg.1.sg.fut.neg,na-mu-nu-ni,na-Σ-nu-ni,na+Σ+nu+ni,n a Σ n u n i,n a + Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak112,mu,3.sg.1.pl.excl.fut.neg,na-mu-nu-ni,na-Σ-nu-ni,na+Σ+nu+ni,n a Σ n u n i,n a + Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak113,mu,3.sg.1.pl.incl.fut.neg,na-mu-nu-ni,na-Σ-nu-ni,na+Σ+nu+ni,n a Σ n u n i,n a + Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak114,mu,3.pl.1.sg.fut.neg,na-mu-nu-na-u,na-Σ-nu-na-u,na+Σ+nu+na+u,n a Σ n u n a u,n a + Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak115,mu,3.pl.1.pl.excl.fut.neg,na-mu-nu-na-u,na-Σ-nu-na-u,na+Σ+nu+na+u,n a Σ n u n a u,n a + Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak116,mu,3.pl.1.pl.incl.fut.neg,na-mu-nu-na-u,na-Σ-nu-na-u,na+Σ+nu+na+u,n a Σ n u n a u,n a + Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak117,mu,3.sg.2.sg.fut.neg,na-mu-nu-ni,na-Σ-nu-ni,na+Σ+nu+ni,n a Σ n u n i,n a + Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak118,mu,3.sg.2.pl.fut.neg,na-mu-nu-ni,na-Σ-nu-ni,na+Σ+nu+ni,n a Σ n u n i,n a + Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak119,mu,3.pl.2.sg.fut.neg,na-mu-nu-na-u,na-Σ-nu-na-u,na+Σ+nu+na+u,n a Σ n u n a u,n a + Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak120,mu,3.pl.2.pl.fut.neg,na-mu-nu-na-u,na-Σ-nu-na-u,na+Σ+nu+na+u,n a Σ n u n a u,n a + Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak121,mu,3.sg.3.sg.fut.neg,mu-nu-ni,Σ-nu-ni,Σ+nu+ni,Σ n u n i,Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak122,mu,3.sg.3.pl.fut.neg,mu-nu-ni,Σ-nu-ni,Σ+nu+ni,Σ n u n i,Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak123,mu,3.pl.3.sg.fut.neg,mu-nu-na-u,Σ-nu-na-u,Σ+nu+na+u,Σ n u n a u,Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak124,mu,3.pl.3.pl.fut.neg,mu-nu-na-u,Σ-nu-na-u,Σ+nu+na+u,Σ n u n a u,Σ + n u + n a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak125,che,1.sg.nfut.aff,ka-che,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak126,che,1.pl.excl.nfut.aff,kin-che,kin-Σ,kin+Σ,k i n Σ,k i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak127,che,1.pl.incl.nfut.aff,ni-che,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak128,mu,1.sg.2.sg.nfut.aff,ka-na-mu,ka-na-Σ,ka+na+Σ,k a n a Σ,k a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak129,mu,1.sg.2.pl.nfut.aff,ka-na-mu,ka-na-Σ,ka+na+Σ,k a n a Σ,k a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak130,mu,1.pl.excl.2.sg.nfut.aff,kin-na-mu,kin-na-Σ,kin+na+Σ,k i n n a Σ,k i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak131,mu,1.pl.excl.2.pl.nfut.aff,kin-na-mu,kin-na-Σ,kin+na+Σ,k i n n a Σ,k i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak132,mu,1.sg.3.sg.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak133,mu,1.sg.3.pl.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak134,mu,1.pl.excl.3.sg.nfut.aff,kin-mu,kin-Σ,kin+Σ,k i n Σ,k i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak135,mu,1.pl.incl.3.sg.nfut.aff,ni-mu,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak136,mu,1.pl.excl.3.pl.nfut.aff,kin-mu,kin-Σ,kin+Σ,k i n Σ,k i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak137,mu,1.pl.incl.3.pl.nfut.aff,ni-mu,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak138,che,2.sg.nfut.aff,na-che,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak139,che,2.pl.nfut.aff,ning-che,ning-Σ,ning+Σ,n i ŋ Σ,n i ŋ + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak140,mu,2.sg.1.sg.nfut.aff,na-na-mu,na-na-Σ,na+na+Σ,n a n a Σ,n a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak141,mu,2.sg.1.pl.excl.nfut.aff,na-na-mu,na-na-Σ,na+na+Σ,n a n a Σ,n a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak142,mu,2.pl.1.sg.nfut.aff,ning-na-mu,ning-na-Σ,ning+na+Σ,n i ŋ n a Σ,n i ŋ + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak143,mu,2.pl.1.pl.excl.nfut.aff,ning-na-mu,ning-na-Σ,ning+na+Σ,n i ŋ n a Σ,n i ŋ + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak144,mu,2.sg.3.sg.nfut.aff,na-mu,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak145,mu,2.sg.3.pl.nfut.aff,na-mu,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak146,mu,2.pl.3.sg.nfut.aff,ning-mu,ning-Σ,ning+Σ,n i ŋ Σ,n i ŋ + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak147,mu,2.pl.3.pl.nfut.aff,ning-mu,ning-Σ,ning+Σ,n i ŋ Σ,n i ŋ + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak148,che,3.sg.nfut.aff,a-che,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak149,che,3.pl.nfut.aff,in-che,in-Σ,in+Σ,i n Σ,i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak150,mu,3.sg.1.sg.nfut.aff,a-na-mu,a-na-Σ,kei a+na+Σ,k ei a n a Σ,k ei + a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak151,mu,3.sg.1.pl.excl.nfut.aff,a-na-mu,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak152,mu,3.sg.1.pl.incl.nfut.aff,a-na-mu,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak153,mu,3.pl.1.sg.nfut.aff,in-na-mu,in-na-Σ,in+na+Σ,i n n a Σ,i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak154,mu,3.pl.1.pl.excl.nfut.aff,in-na-mu,in-na-Σ,in+na+Σ,i n n a Σ,i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak155,mu,3.pl.1.pl.incl.nfut.aff,in-na-mu,in-na-Σ,in+na+Σ,i n n a Σ,i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak156,mu,3.sg.2.sg.nfut.aff,a-na-mu,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak157,mu,3.sg.2.pl.nfut.aff,a-na-mu,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak158,mu,3.pl.2.sg.nfut.aff,in-na-mu,in-na-Σ,in+na+Σ,i n n a Σ,i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak159,mu,3.pl.2.pl.nfut.aff,in-na-mu,in-na-Σ,in+na+Σ,i n n a Σ,i n + n a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak160,mu,3.sg.3.sg.nfut.aff,a-mu,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak161,mu,3.sg.3.pl.nfut.aff,a-mu,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak162,mu,3.pl.3.sg.nfut.aff,in-mu,in-Σ,in+Σ,i n Σ,i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak163,mu,3.pl.3.pl.nfut.aff,in-mu,in-Σ,in+Σ,i n Σ,i n + Σ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak164,che,1.sg.nfut.neg,che-ma-eng,Σ-ma-eng,Σ+ma+eng,Σ m a e ŋ,Σ + m a + e ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak165,che,1.pl.excl.nfut.neg,che-ma-ung,Σ-ma-ung,Σ+ma+u+ng,Σ m a u ŋ,Σ + m a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak166,che,1.pl.incl.nfut.neg,che-mak-sing,Σ-mak-sing,Σ+mak+s+ing,Σ m a k s i ŋ,Σ + m a k + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak167,mu,1.sg.2.sg.nfut.neg,na-mu-ma-eng,na-Σ-ma-eng,na+Σ+ma+eng,n a Σ m a e ŋ,n a + Σ + m a + e ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak168,mu,1.sg.2.pl.nfut.neg,na-mu-ma-eng,na-Σ-ma-eng,na+Σ+ma+eng,n a Σ m a e ŋ,n a + Σ + m a + e ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak169,mu,1.pl.excl.2.sg.nfut.neg,na-mu-ma-ung,na-Σ-ma-ung,na+Σ+ma+u+ng,n a Σ m a u ŋ,n a + Σ + m a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak170,mu,1.pl.excl.2.pl.nfut.neg,na-mu-ma-ung,na-Σ-ma-ung,na+Σ+ma+u+ng,n a Σ m a u ŋ,n a + Σ + m a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak171,mu,1.sg.3.sg.nfut.neg,mu-ma-eng,Σ-ma-eng,Σ+ma+eng,Σ m a e ŋ,Σ + m a + e ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak172,mu,1.sg.3.pl.nfut.neg,mu-ma-eng,Σ-ma-eng,Σ+ma+eng,Σ m a e ŋ,Σ + m a + e ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak173,mu,1.pl.excl.3.sg.nfut.neg,mu-ma-ung,Σ-ma-ung,Σ+ma+u+ng,Σ m a u ŋ,Σ + m a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak174,mu,1.pl.incl.3.sg.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+ma+s+ing,Σ m a s i ŋ,Σ + m a + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak175,mu,1.pl.excl.3.pl.nfut.neg,mu-ma-ung,Σ-ma-ung,Σ+ma+u+ng,Σ m a u ŋ,Σ + m a + u + ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak176,mu,1.pl.incl.3.pl.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+mak+s+ing,Σ m a k s i ŋ,Σ + m a k + s + i ŋ,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak177,che,2.sg.nfut.neg,che-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak178,che,2.pl.nfut.neg,che-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak179,mu,2.pl.nfut.neg,mu-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak180,che,2.sg.1.sg.nfut.neg,na-mu-mak-che,na-Σ-mak-Σ,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak181,che,2.sg.1.pl.excl.nfut.neg,na-mu-mak-che,na-Σ-mak-Σ,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak182,mu,2.pl.1.sg.nfut.neg,na-mu-mak-cha-u,na-Σ-mak-cha-u,na+Σ+mak+cha+u,n a Σ m a k tʃ a u,n a + Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak183,mu,2.pl.1.pl.excl.nfut.neg,na-mu-mak-cha-u,na-Σ-mak-cha-u,na+Σ+mak+cha+u,n a Σ m a k tʃ a u,n a + Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak184,che,2.sg.3.sg.nfut.neg,mu-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak185,che,2.sg.3.pl.nfut.neg,mu-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak186,mu,2.pl.3.sg.nfut.neg,mu-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak187,mu,2.pl.3.pl.nfut.neg,mu-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak188,che,3.sg.nfut.neg,che-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak189,che,3.pl.nfut.neg,che-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak190,mu,3.sg.1.sg.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak191,mu,3.sg.1.sg.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak192,mu,3.sg.1.pl.excl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak193,mu,3.sg.1.pl.incl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak194,mu,3.pl.1.sg.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak195,mu,3.pl.1.pl.excl.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak196,mu,3.pl.1.pl.incl.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak197,mu,3.sg.2.sg.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak198,mu,3.sg.2.pl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak199,mu,3.pl.2.sg.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak200,mu,3.pl.2.pl.nfut.neg,na-mu-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak201,mu,3.sg.3.sg.nfut.neg,mu-nu-ni,Σ-nu-ni,Σ+nu+ni,Σ n u n i,Σ + n u + n i,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak202,mu,3.sg.3.pl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak203,mu,3.pl.3.sg.nfut.neg,in-mu-ma-u,in-Σ-ma-u,in+Σ+ma+u,i n Σ m a u,i n + Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak204,mu,3.pl.3.sg.nfut.neg,mu-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
+kommoirangmantak205,mu,3.pl.3.pl.nfut.neg,mu-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,unspecified,,Kanshouwa2026MoirangMantakKom,nopage,kommoirangmantak
